@@ -42,6 +42,3 @@ void draw() {
   if ( x > 640)//士兵超出畫面做改變
     x = -80;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
